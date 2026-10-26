@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转高还原3D"
+  short_description: "从参考图重建真实3D模型，锁定形象并核对整体、多视角、贴图与导出。"
+  default_prompt: "请用 $image-to-3d-fidelity 将我提供的参考图制作成高还原、可旋转和可编辑的真实3D模型；优先复用本地资源，并用原图渐变、多视角和几何检查核验后再交付。"
